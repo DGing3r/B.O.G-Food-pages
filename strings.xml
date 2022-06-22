@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pages</string>
+    <string name="Sd1">Mango Mojito</string>
+    <string name="desc">Mango Mojito is a light and refreshing Cuban-style cocktail,<br>
+        where mango puree is mixed with club soda, lemon juice mint leaves, sugar, white </br>rum
+        , and ice cubes. There is a very subtle spicy kick from the jalapeno in this drink.</string>
+    <string name="b1">BUY NOW</string>
+    <string name="b2">ADD TO LIST</string>
+    <string name="total_prize">Total Prize:</string>
+    <string name="next">NEXT</string>
+    <string name="Str1">READY TO BUY!!!</string>
+    <string name="Tx1">Total Amount:</string>
+    <string name="Tx2">Php 0</string>
+    <string name="Tx3">Delivery Service:</string>
+    <string name="Tx4">Tax:</string>
+    <string name="todo">TODO</string>
+    <string name="ChO">Check out</string>
+    <string name="todo2">TODO</string>
+</resources>
